@@ -1,6 +1,4 @@
 title: Daniel Olivera
-#remote_theme: pages-themes/minimal@v0.2.0
 theme: jekyll-theme-minimal
 logo: /assets/imgs/profile.png
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
+description: Portafolio de proyectos laborales y personales de Data Engineer y Data Analyst
