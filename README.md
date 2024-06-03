@@ -48,10 +48,22 @@ Desarrollo de múltiples ETL pipiline en Talend Open Studio para extraer informa
 
 ![](/assets/imgs/SqlServer-logo.png) ![](/assets/imgs/oracle-logo.png) ![](/assets/imgs/teradata-logo.png) ![](/assets/imgs/talendOpenStudio-logo.png) ![](/assets/imgs/powerBi-logo.png)
 
-- Empresa de Combustible: Desarrollar un RPA Uipath para descargar información de un repositorio del cliente. Luego utilizar un ETL pipeline en Talend Open Studio para cargar la informacion en una BD Postgresl. Finalmente realizar un dashboard que tendría diversos indicadores utilizando la fuente de datos mencionada.
-- Área Interna: Desarrollar diversos RPAs para realizar extracción de información, generación de reportes y envió de correos de acuerdo a las necesidades solicitadas
-- Empresa Telco: Desarrollar RPA para acceder a 20 páginas webs que generan recibos de energía y agua para descargar los recibos solicitados y el RPA leyera cada uno de los 80-90 campos solicitados de los recibos en PDFs. Luego realizar un reporte consolidado de toda la información y cargarlo a un repositorio.
+### Reportería de Incumplimiento de Cisternas de empresa de Combustible:
+
+Desarrollar un RPA Uipath para descargar información de un repositorio del cliente. Luego utilizar un ETL pipeline en Talend Open Studio para cargar la informacion en una BD Postgresl. Finalmente realizar un dashboard que tendría diversos indicadores utilizando la fuente de datos mencionada.
+
+### Automatización de lectura de recibos de energía y agua:
+
+Desarrollar RPA para acceder a 20 páginas webs que generan recibos de energía y agua para descargar los recibos solicitados y el RPA leyera cada uno de los 80-90 campos solicitados de los recibos en PDFs. Luego realizar un reporte consolidado de toda la información y cargarlo a un repositorio.
+
+### Automatización de envío de reportes internos generados:
+
+Desarrollar diversos RPAs para realizar extracción de información, generación de reportes y envió de correos de acuerdo a las necesidades solicitadas
 
 ## Proyectos Personales
-- Analisis de noticias: Desarrollé un web scraping con Python con librerias de BeautifulSoup para extraer información de las noticias de los últimos 7 días de un periodico del país. Luego se hizo una limpieza de los datos para poder utilizarlo en un analisis de datos utilizando libreria Pandas. Por último utilizando librerias de Python como Pandas, Matplotlib y WordCloud realicé un análisis de los datos para resolver las siguientes preguntas: ¿cuál es el momento del día que hay mayor cantidad de publicaciones?, ¿Quién es el autor que más noticias publica?, ¿Que tópico es el más publicado alrededor de los días? y ¿Qué alabras más utilizadas en los títulos de las publicaciones?.
-- Coming Soon
+
+### Analisis de noticias: 
+
+Desarrollé un web scraping con Python con librerias de BeautifulSoup para extraer información de las noticias de los últimos 7 días de un periodico del país. Luego se hizo una limpieza de los datos para poder utilizarlo en un analisis de datos utilizando libreria Pandas. Por último utilizando librerias de Python como Pandas, Matplotlib y WordCloud realicé un análisis de los datos para resolver las siguientes preguntas: ¿cuál es el momento del día que hay mayor cantidad de publicaciones?, ¿Quién es el autor que más noticias publica?, ¿Que tópico es el más publicado alrededor de los días? y ¿Qué alabras más utilizadas en los títulos de las publicaciones?.
+
+### Coming Soon
