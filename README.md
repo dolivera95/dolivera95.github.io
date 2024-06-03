@@ -6,13 +6,13 @@
 - Data Science Peru‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Especializacion Data Engineer (En curso)
 - Microsoft‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Microsoft Azure Fundamentals AZ-900
 - Centrum PUCP‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Big Data Analyitics: Aplicada a los negocios
-- Udemy‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Big Data y Spark: Ingeniería de datos con Python y Spark
-- Udemy‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ SQL Server Integration Services (SSIS) desde 0 hasta Experto
-- Udemy‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Análisis de Datos con Pandas y Python
-- Udemy‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Master en SQL Server: Desde 0 a nivel Profesional [2023]
-- Udemy‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Python TOTAL - Programador Avanzado en 16 días
-- DMC Perú‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Especialización en Automatización de Procesos con RPAs
-- Uipath Academy‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Diploma of Completition RPA Developer Foundation
+- Udemy‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Big Data y Spark: Ingeniería de datos con Python y Spark
+- Udemy‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ SQL Server Integration Services (SSIS) desde 0 hasta Experto
+- Udemy‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Análisis de Datos con Pandas y Python
+- Udemy‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Master en SQL Server: Desde 0 a nivel Profesional [2023]
+- Udemy‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Python TOTAL - Programador Avanzado en 16 días
+- DMC Perú‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Especialización en Automatización de Procesos con RPAs
+- Uipath Academy‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Diploma of Completition RPA Developer Foundation
 - Universidad de Lima‎ ‎ ‎ >‎ ‎ ‎ ‎ Bachiller Ingeniería de Sistemas
 
 ## Experiencia Laboral
