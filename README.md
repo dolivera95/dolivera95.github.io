@@ -58,6 +58,8 @@ Desarrollar un RPA Uipath para descargar información de un repositorio del clie
 
 Desarrollar RPA para acceder a 20 páginas webs que generan recibos de energía y agua para descargar los recibos solicitados y el RPA leyera cada uno de los 80-90 campos solicitados de los recibos en PDFs. Luego realizar un reporte consolidado de toda la información y cargarlo a un repositorio.
 
+![](/assets/imgs/diagrama3.drawio.png)
+
 ### Automatización de envío de reportes internos generados:
 
 Desarrollar diversos RPAs para realizar extracción de información, generación de reportes y envió de correos de acuerdo a las necesidades solicitadas
