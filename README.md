@@ -52,6 +52,8 @@ Desarrollo de múltiples ETL pipiline en Talend Open Studio para extraer informa
 
 Desarrollar un RPA Uipath para descargar información de un repositorio del cliente. Luego utilizar un ETL pipeline en Talend Open Studio para cargar la informacion en una BD Postgresl. Finalmente realizar un dashboard que tendría diversos indicadores utilizando la fuente de datos mencionada.
 
+![](/assets/imgs/diagrama2.drawio.png)
+
 ### Automatización de lectura de recibos de energía y agua:
 
 Desarrollar RPA para acceder a 20 páginas webs que generan recibos de energía y agua para descargar los recibos solicitados y el RPA leyera cada uno de los 80-90 campos solicitados de los recibos en PDFs. Luego realizar un reporte consolidado de toda la información y cargarlo a un repositorio.
