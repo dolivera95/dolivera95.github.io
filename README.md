@@ -36,9 +36,9 @@
 - Responsable en elaborar soluciones en RPA Uipath.
 
 ## Proyectos en el Trabajo
-- Empresa Telco: Desarrollar múltiples ETL pipiline en Talend Open Studio para extraer información del usuario de diversos BDs (Oracle, Teradata, SQL Server), realizar limpieza de los datos por medio del ETL y Store Procedures. Finalmente utilizar los datos finales como fuente de diversos indicadores de Dashboards en Power Bi para los usuarios finales.
+### Reportería de ventas de empresa Telecomunicaciones: Desarrollo de múltiples ETL pipiline en Talend Open Studio para extraer información del usuario de diversos BDs (Oracle, Teradata, SQL Server), realizar limpieza de los datos por medio del ETL y Store Procedures. Finalmente utilizar los datos finales como fuente de diversos indicadores de Dashboards en Power Bi para los usuarios finales.
 
-![](/assets/imgs/SqlServer-logo.png) ![](/assets/imgs/oracle-logo.png) ![](/assets/imgs/talendOpenStudio-logo.png) ![](/assets/imgs/teradata-logo.png)
+![](/assets/imgs/SqlServer-logo.png) ![](/assets/imgs/oracle-logo.png) ![](/assets/imgs/teradata-logo.png) ![](/assets/imgs/talendOpenStudio-logo.png) ![](/assets/imgs/powerBi-logo.png)
 
 - Empresa de Combustible: Desarrollar un RPA Uipath para descargar información de un repositorio del cliente. Luego utilizar un ETL pipeline en Talend Open Studio para cargar la informacion en una BD Postgresl. Finalmente realizar un dashboard que tendría diversos indicadores utilizando la fuente de datos mencionada.
 - Área Interna: Desarrollar diversos RPAs para realizar extracción de información, generación de reportes y envió de correos de acuerdo a las necesidades solicitadas
