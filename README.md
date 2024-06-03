@@ -48,6 +48,8 @@ Desarrollo de múltiples ETL pipiline en Talend Open Studio para extraer informa
 
 ![](/assets/imgs/SqlServer-logo.png) ![](/assets/imgs/oracle-logo.png) ![](/assets/imgs/teradata-logo.png) ![](/assets/imgs/talendOpenStudio-logo.png) ![](/assets/imgs/powerBi-logo.png)
 
+![](/assets/imgs/diagrama1.drawio.png)
+
 ### Reportería de Incumplimiento de Cisternas de empresa de Combustible:
 
 Desarrollar un RPA Uipath para descargar información de un repositorio del cliente. Luego utilizar un ETL pipeline en Talend Open Studio para cargar la informacion en una BD Postgresl. Finalmente realizar un dashboard que tendría diversos indicadores utilizando la fuente de datos mencionada.
