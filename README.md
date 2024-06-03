@@ -4,7 +4,7 @@
 
 ## Educación
 - Data Science Peru‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Especializacion Data Engineer (En curso)
-- Microsoft‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Microsoft Azure Fundamentals AZ-900
+- Microsoft‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Microsoft Azure Fundamentals AZ-900
 - Centrum PUCP‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Big Data Analyitics: Aplicada a los negocios
 - Udemy‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ Big Data y Spark: Ingeniería de datos con Python y Spark
 - Udemy‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ >‎ ‎ ‎ ‎ SQL Server Integration Services (SSIS) desde 0 hasta Experto
