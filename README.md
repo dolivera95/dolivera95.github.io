@@ -46,8 +46,6 @@
 
 Desarrollo de múltiples ETL pipiline en Talend Open Studio para extraer información del usuario de diversos BDs (Oracle, Teradata, SQL Server), realizar limpieza de los datos por medio del ETL y Store Procedures. Finalmente utilizar los datos finales como fuente de diversos indicadores de Dashboards en Power Bi para los usuarios finales.
 
-![](/assets/imgs/SqlServer-logo.png) ![](/assets/imgs/oracle-logo.png) ![](/assets/imgs/teradata-logo.png) ![](/assets/imgs/talendOpenStudio-logo.png) ![](/assets/imgs/powerBi-logo.png)
-
 ![](/assets/imgs/diagrama1.drawio.png)
 
 ### Reportería de Incumplimiento de Cisternas de empresa de Combustible:
