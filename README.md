@@ -37,7 +37,7 @@
 
 ## Proyectos en el Trabajo
 - Empresa Telco: Desarrollar múltiples ETL pipiline en Talend Open Studio para extraer información del usuario de diversos BDs (Oracle, Teradata, SQL Server), realizar limpieza de los datos por medio del ETL y Store Procedures. Finalmente utilizar los datos finales como fuente de diversos indicadores de Dashboards en Power Bi para los usuarios finales
-![](/assets/imgs/SqlServer-logo.png) ![](/assets/imgs/oracle-logo.png) ![](/imgs/talendOpenStudio-logo.png)
+ ![](/assets/imgs/oracle-logo.png) ![](/imgs/talendOpenStudio-logo.png)
 - Empresa de Combustible: Desarrollar un RPA Uipath para descargar información de un repositorio del cliente. Luego utilizar un ETL pipeline en Talend Open Studio para cargar la informacion en una BD Postgresl. Finalmente realizar un dashboard que tendría diversos indicadores utilizando la fuente de datos mencionada.
 - Área Interna: Desarrollar diversos RPAs para realizar extracción de información, generación de reportes y envió de correos de acuerdo a las necesidades solicitadas
 - Empresa Telco: Desarrollar RPA para acceder a 20 páginas webs que generan recibos de energía y agua para descargar los recibos solicitados y el RPA leyera cada uno de los 80-90 campos solicitados de los recibos en PDFs. Luego realizar un reporte consolidado de toda la información y cargarlo a un repositorio.
