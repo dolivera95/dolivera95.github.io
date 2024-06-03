@@ -13,7 +13,7 @@
 - Udemy                 >   Python TOTAL - Programador Avanzado en 16 días
 - DMC Perú              >   Especialización en Automatización de Procesos con RPAs
 - Uipath Academy        >   Diploma of Completition RPA Developer Foundation
-- Universidad de Lima   >   Bachiller Ingeniería de Sistemas
+- Universidad de Lima        >   Bachiller Ingeniería de Sistemas
 
 ## Experiencia Laboral
 **Consultor TI @ Indra Perú (_Abril 2023 - Actualidad_)**
