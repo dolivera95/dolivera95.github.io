@@ -68,6 +68,11 @@ Desarrollar diversos RPAs para realizar extracción de información, generación
 
 ### Analisis de noticias: 
 
-Desarrollé un web scraping con Python con librerias de BeautifulSoup para extraer información de las noticias de los últimos 7 días de un periodico del país. Luego se hizo una limpieza de los datos para poder utilizarlo en un analisis de datos utilizando libreria Pandas. Por último utilizando librerias de Python como Pandas, Matplotlib y WordCloud realicé un análisis de los datos para resolver las siguientes preguntas: ¿cuál es el momento del día que hay mayor cantidad de publicaciones?, ¿Quién es el autor que más noticias publica?, ¿Que tópico es el más publicado alrededor de los días? y ¿Qué alabras más utilizadas en los títulos de las publicaciones?.
+Desarrollé un web scraping con la librería BeautifulSoup de Python para extraer información de las noticias de los últimos 7 días de un periodico del país. Luego se hizo una limpieza de los datos para poder utilizarlo en un analisis de datos utilizando libreria de Pandas. Por último utilizando librerias de Python como Pandas, Matplotlib y WordCloud realicé un análisis de los datos para resolver las siguientes preguntas: 
+- ¿cuál es el momento del día que hay mayor cantidad de publicaciones? 
+- ¿Quién es el autor que más noticias publica? 
+- ¿Que tópico es el más publicado alrededor de los días? 
+- ¿Qué alabras más utilizadas en los títulos de las publicaciones?.
 
 ### Coming Soon
+
