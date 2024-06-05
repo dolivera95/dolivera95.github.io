@@ -66,7 +66,7 @@ Desarrollar diversos RPAs para realizar extracción de información, generación
 
 ## Proyectos Personales
 
-### Web Scraping & Análisis de datos Web El Comercio: 
+### Web El Comercio noticias del día: Web Scraping & Análisis de datos 
 
 [Repositorio del proyecto](https://github.com/dolivera95/web-scraping-news-elcomercio)
 
@@ -77,6 +77,13 @@ Desarrollé un web scraping con la librería BeautifulSoup de Python para extrae
 - ¿Quién es el autor que más noticias publica? 
 - ¿Que tópico es el más publicado alrededor de los días? 
 - ¿Qué alabras más utilizadas en los títulos de las publicaciones?
+
+### Coronavirus hoy en dia: Web Scraping & Análisis de datos 
+
+Desarrollando un web scraping con la librería BeautifulSoup de Pyton para extraer información de una base de la evolución del Coronavirus alrededor de 250 países. Luego se va a realizar un análisis mas a detalle para contestar preguntas como: 
+- ¿Cuál es el páis que actualmente se encuentre con menores casos?
+- ¿Qué países aun estan siendo afectados por el Coronavirus?
+- ¿Qué paises tienen la tasa de menores cantidade de muertes por Coronavirus actualmente?
 
 ### Coming Soon
 
