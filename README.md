@@ -82,6 +82,8 @@ Desarrollé un web scraping con la librería BeautifulSoup de Python para extrae
 
 [Repositorio del proyecto](https://github.com/dolivera95/web-scraping-coronavirus-world)
 
+![](/assets/imgs/diagrama5.drawio.png)
+
 Desarrollando un web scraping con la librería BeautifulSoup de Pyton para extraer información de una base de la evolución del Coronavirus alrededor de 250 países. Luego se va a realizar un análisis mas a detalle para contestar preguntas como: 
 - ¿Cuál es el páis que actualmente se encuentre con menores casos?
 - ¿Qué países aun estan siendo afectados por el Coronavirus?
