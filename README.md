@@ -89,5 +89,21 @@ Desarrollando un web scraping con la librería BeautifulSoup de Pyton para extra
 - ¿Qué países aun estan siendo afectados por el Coronavirus?
 - ¿Qué paises tienen la tasa de menores cantidade de muertes por Coronavirus actualmente?
 
+### Analizar API Mi Spotify
+
+Desarrollé un consumo del API de Spotify utilizando la librería de Spotipy para poder extraer información acerca de mis 30 artistas que más escucho. A partir de ello realizar diversos análisis como:
+- Los albumnes más populares de mis artistas
+- Las canciones más populares de mis artistas favoritos
+- Linea de tiempo de la publicación de los albumes de mis artistas
+
+### Analizar chat grupal de Whatsapp
+
+Desarrollé un ETL para extraer la información de un chat grupal exportado de Whatsapp y transformarlo en tablas con información acerca de las conversaciones indicando la fecha de la conversación, los emojis utilizados, los links compartidos, etc. A partir de ello realizar un naálisis visual utilizando un Dashboard en Power BI y revisar puntos como:
+- El día de semana que más se conversa
+- La hora del día que mas está activo el grupo
+- El ranking de los contactos que mas escriben
+- ¿Cuál es el emoji mas utilizado?
+- Las páginas webs que más comparten
+
 ### Coming Soon
 
