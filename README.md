@@ -91,14 +91,18 @@ Desarrollando un web scraping con la librería BeautifulSoup de Pyton para extra
 
 ### Analizar API Mi Spotify
 
-Desarrollé un consumo del API de Spotify utilizando la librería de Spotipy para poder extraer información acerca de mis 30 artistas que más escucho. A partir de ello realizar diversos análisis como:
+[Repositorio del proyecto](https://github.com/dolivera95/analize_spotify_api)
+
+Desarrollé un consumo del API de Spotify utilizando la librería de Spotipy para poder extraer información acerca de mis 30 artistas que más escucho. A partir de ello realizar un dashboard en Power Bi y poder analizar diversos indicadores como:
 - Los albumnes más populares de mis artistas
 - Las canciones más populares de mis artistas favoritos
 - Linea de tiempo de la publicación de los albumes de mis artistas
 
 ### Analizar chat grupal de Whatsapp
 
-Desarrollé un ETL para extraer la información de un chat grupal exportado de Whatsapp y transformarlo en tablas con información acerca de las conversaciones indicando la fecha de la conversación, los emojis utilizados, los links compartidos, etc. A partir de ello realizar un naálisis visual utilizando un Dashboard en Power BI y revisar puntos como:
+[Repositorio del proyecto](https://github.com/dolivera95/Analize_Whatsapp_Conversation)
+
+Desarrollé un ETL para extraer la información de un chat grupal exportado de Whatsapp y transformarlo en tablas con información acerca de las conversaciones indicando la fecha de la conversación, los emojis utilizados, los links compartidos, etc. A partir de ello realizar un naálisis visual utilizando un Dashboard en Power BI y revisar diversos indicadores como:
 - El día de semana que más se conversa
 - La hora del día que mas está activo el grupo
 - El ranking de los contactos que mas escriben
