@@ -70,6 +70,8 @@ Desarrollar diversos RPAs para realizar extracción de información, generación
 
 [Repositorio del proyecto](https://github.com/dolivera95/web-scraping-news-elcomercio)
 
+[Link Indicador en Power Bi](https://app.powerbi.com/view?r=eyJrIjoiMWUyMWQ4NTgtOGQ2OC00ZWFkLWEzZjctNDI4YTZkYmJmNTBlIiwidCI6IjRmZjM4NTQ0LWY1YzEtNDRiZS1hZmNiLWU2ZmU1MzRkYTdiNCIsImMiOjR9)
+
 ![](/assets/imgs/diagrama4.drawio.png)
 
 Desarrollé un web scraping con la librería BeautifulSoup de Python para extraer información de las noticias de los últimos 7 días de un periodico del país. Luego se hizo una limpieza de los datos para poder utilizarlo en un analisis de datos utilizando libreria de Pandas. Por último utilizando librerias de Python como Pandas, Matplotlib y WordCloud realicé un análisis de los datos para resolver las siguientes preguntas: 
@@ -82,6 +84,8 @@ Desarrollé un web scraping con la librería BeautifulSoup de Python para extrae
 
 [Repositorio del proyecto](https://github.com/dolivera95/web-scraping-coronavirus-world)
 
+[Link Indicador en Power Bi](https://app.powerbi.com/view?r=eyJrIjoiNmJiZGVkZGItZTQ4OC00ZjY4LWIyNjUtNTQwZTA2NTg3YTljIiwidCI6IjRmZjM4NTQ0LWY1YzEtNDRiZS1hZmNiLWU2ZmU1MzRkYTdiNCIsImMiOjR9)
+
 ![](/assets/imgs/diagrama5.drawio.png)
 
 Desarrollando un web scraping con la librería BeautifulSoup de Pyton para extraer información de una base de la evolución del Coronavirus alrededor de 250 países. Luego se va a realizar un análisis mas a detalle para contestar preguntas como: 
@@ -93,6 +97,8 @@ Desarrollando un web scraping con la librería BeautifulSoup de Pyton para extra
 
 [Repositorio del proyecto](https://github.com/dolivera95/analize_spotify_api)
 
+[Link Indicador en Power Bi](https://app.powerbi.com/view?r=eyJrIjoiM2VlOTQ1NjQtZmU5NS00MzM1LWExNmYtN2NjZGQzNjNjYmFmIiwidCI6IjRmZjM4NTQ0LWY1YzEtNDRiZS1hZmNiLWU2ZmU1MzRkYTdiNCIsImMiOjR9)
+
 ![](/assets/imgs/diagrama6.drawio.png)
 
 Desarrollé un consumo del API de Spotify utilizando la librería de Spotipy para poder extraer información acerca de mis 30 artistas que más escucho. A partir de ello realizar un dashboard en Power Bi y poder analizar diversos indicadores como:
@@ -103,6 +109,8 @@ Desarrollé un consumo del API de Spotify utilizando la librería de Spotipy par
 ### Analizar chat grupal de Whatsapp
 
 [Repositorio del proyecto](https://github.com/dolivera95/Analize_Whatsapp_Conversation)
+
+[Link Indicador en Power Bi](https://app.powerbi.com/view?r=eyJrIjoiZjhjMDc4MmMtZDhlZS00YmRkLTg4ZmEtYjEyZWE2ZjIzMWViIiwidCI6IjRmZjM4NTQ0LWY1YzEtNDRiZS1hZmNiLWU2ZmU1MzRkYTdiNCIsImMiOjR9)
 
 ![](/assets/imgs/diagrama7.drawio.png)
 
